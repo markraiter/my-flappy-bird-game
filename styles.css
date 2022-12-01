@@ -27,7 +27,7 @@
     left: 100vw;
     height: 70vh;
     width: 6vw;
-    background: radial-gradient(lightpink 50%, pink);
+    background: radial-gradient(lightgreen 50%, green);
     border: 5px solid black;
 }
 .message {
